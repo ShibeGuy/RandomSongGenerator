@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random Song Generator", "Random Song Generator.csproj", "{D70B6CAD-CEA7-41F4-AEFD-B7C62E33338B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70B6CAD-CEA7-41F4-AEFD-B7C62E33338B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70B6CAD-CEA7-41F4-AEFD-B7C62E33338B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70B6CAD-CEA7-41F4-AEFD-B7C62E33338B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70B6CAD-CEA7-41F4-AEFD-B7C62E33338B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26FE3742-EDF2-4D1C-AC56-3A87D907E329}
+	EndGlobalSection
+EndGlobal
